@@ -30,7 +30,7 @@ This project consists of two major components:
 File:
 
 ```text
-Personalized_Diet_Recommendation.ipynb
+ArogyaIQ_End_to_End_ML_Pipeline.ipynb
 ```
 
 This notebook includes:
@@ -318,4 +318,4 @@ AI Meal Plan Generation
 
 Deepanshu Kumar
 
-Data Science | Machine Learning | Artificial Intelligence | Healthcare Analytics
+Data Science | Machine Learning | Deep Learning |  Artificial Intelligence
